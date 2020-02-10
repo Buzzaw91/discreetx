@@ -2,7 +2,9 @@
 DiscreetX is a simple end-to-end encrypted chat utilizing Virgil Security SDK and stream chat API
 
 ## Screenshots
-
+![Alt text](/screenshots/pr01.png?raw=true "Optional Title")
+![Alt text](/screenshots/pr02.png?raw=true "Optional Title")
+![Alt text](/screenshots/pr03.png?raw=true "Optional Title")
 
 
 ## IMPORTANT
