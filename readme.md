@@ -3,7 +3,7 @@ DiscreetX is a simple end-to-end encrypted chat utilizing Virgil Security SDK an
 
 ## Screenshots
 
-TBD
+
 
 ## IMPORTANT
 You must use node.js version 11.14.0
