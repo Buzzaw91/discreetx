@@ -22,11 +22,12 @@ your accounts, place your credentials in `backend/.env`. You can use
 ## Installation
 
 To run the app please follow these instructions:
-
+```
 1. Clone the repository
 
 git clone https://github.com/Buzzaw91/discreetx.git
-```
+
+
 2. Install the dependencies
 use of yarn package manager is required for the front end
 recommend using it for both front- and backend
