@@ -38,6 +38,8 @@ install dependencies for both front- and backend
 ```
 ## Run the chat app
 In the backend 'npm run dev' to start the server and connect to mongoDB
+In the frontend 'npm start' to run a development server, you can run run multiple instances of the client
+and start sending messages between them
 
 
 ## Tech Stack
